@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    height: 100vh;
+}
+
+#noppasection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 33%;
+    margin-bottom: 33%;
+    
+}
+
+#noppa:hover{
+    cursor:pointer
+}
